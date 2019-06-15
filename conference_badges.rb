@@ -28,4 +28,4 @@ end
 
 
 
-assign_rooms
+assign_rooms(array)
