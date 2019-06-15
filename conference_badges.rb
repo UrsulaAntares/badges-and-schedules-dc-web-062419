@@ -18,7 +18,7 @@ end
 #end
 
 
-array = ["Tom", "Dick", "Harry"]
+#array = ["Tom", "Dick", "Harry"]
 
 
 def assign_rooms(array)
@@ -29,4 +29,4 @@ end
 
 
 
-assign_rooms(array)
+#assign_rooms(array)
