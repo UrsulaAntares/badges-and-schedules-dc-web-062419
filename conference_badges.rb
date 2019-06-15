@@ -11,8 +11,13 @@ def batch_badge_creator(array)
 end
 
 
-def assign_rooms(array)
-  array.collect do | name, index.to_i |
-    "Hello, #{name}! You'll be assigned to room #{index + 1}!"
-  end
+#def assign_rooms(array)
+#  array.collect do | name, index.to_i |
+#    "Hello, #{name}! You'll be assigned to room #{index + 1}!"
+#  end
+#end
+
+
+def assing_rooms(array)
+  
 end
