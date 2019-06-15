@@ -18,6 +18,12 @@ end
 #end
 
 
-def assing_rooms(array)
+#array = ["Tom", "Dick", "Harry"]
+
+
+def assign_rooms(array)
   array.each_with_index { |name, index| "Hello, #{name}! You'll be assigned to room #{index + 1}!" }
 end
+
+
+
