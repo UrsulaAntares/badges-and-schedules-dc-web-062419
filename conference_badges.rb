@@ -23,7 +23,7 @@ array = ["Tom", "Dick", "Harry"]
 
 def assign_rooms(array)
   room_assignments = array.each_with_index { |name, index| "Hello, #{name}! You'll be assigned to room #{index + 1}!" }
-  room_assignments
+  puts room_assignments
 end
 
 
