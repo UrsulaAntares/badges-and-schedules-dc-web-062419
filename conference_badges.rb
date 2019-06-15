@@ -19,5 +19,5 @@ end
 
 
 def assing_rooms(array)
-  array.each_with_index { |
+  array.each_with_index { |name, index|
 end
