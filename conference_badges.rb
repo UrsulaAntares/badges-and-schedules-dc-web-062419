@@ -22,7 +22,8 @@ end
 
 
 def assign_rooms(array)
-  room_assignments =   array.each_with_index { |name, index| puts "Hello, #{name}! You'll be assigned to room #{index + 1}!" }
+  room_assignments =array.each_with_index { |name, index| "Hello, #{name}! You'll be assigned to room #{index + 1}!" }
+  room_assignments
 end
 
 
