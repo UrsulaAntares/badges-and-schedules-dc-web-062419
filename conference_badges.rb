@@ -15,4 +15,5 @@ def assign_rooms(array)
   array.collect do | name |
     n =  0
     "Hello, #{name}! You'll be assigned to room #{n+1}!"
+  end
 end
